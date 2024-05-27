@@ -1,2 +1,2 @@
-# 2024_1_Tetris_JOONG
+# Tetris_JOONG_2024_1
 과제제출용 
